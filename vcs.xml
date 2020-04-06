@@ -1,0 +1,17 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.dscall.kr:2280/dev/hcallapi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.dscall.kr:2280" />
+          <option name="userName" value="limstar" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
+  </component>
+</application>
