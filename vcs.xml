@@ -16,7 +16,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="baenagu" />
+          <option name="userName" value="campinggo" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://baenagu@bitbucket.org/baenagu/vacs.git" />
@@ -28,6 +28,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/spring-projects/spring-batch" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://campinggo@bitbucket.org/campinggo/camping_api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
